@@ -1,0 +1,19 @@
+name: flutter_otp_field
+description: This is a flutter otp code handler and creator. Use for only otp code.
+version: 0.0.1
+homepage: https://github.com/P-YMR/flutter_otp_field.git
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
